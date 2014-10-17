@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jos:home|Door43 (jos)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jos|d43-jos repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jos/archive/master.zip|d43-jos.zip]]
+
+**Recent Changes**
+{{changes>ns = jos}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jos|Ethnologue data]]
+
